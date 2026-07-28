@@ -1,10 +1,16 @@
 # Lunara
 
+> This is a fork of [Lunara](https://github.com/Blueturboguy07/lunara) by
+> [Blueturboguy07](https://github.com/Blueturboguy07). Unlike the upstream
+> repo, this fork publishes a bundled, compiled Android APK on the
+> [Releases page](../../releases) — download it and install it directly, no
+> build step required. All credit for the original app goes to the upstream
+> project.
+
 > **⚠️ Unfinished — this is a work in progress.**
-> Lunara is not on the App Store or Google Play, and there is no installer to
-> double-click. You build it from this repository and run it on your own phone.
-> Features are landing continuously and things will break. Do not rely on it as
-> your only record of your health data.
+> Lunara is not on the App Store or Google Play. Features are landing
+> continuously and things will break. Do not rely on it as your only record of
+> your health data.
 
 **An open-source, local-first cycle, fertility, pregnancy, and perimenopause companion.**
 
